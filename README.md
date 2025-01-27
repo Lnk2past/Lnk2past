@@ -2,7 +2,7 @@
 
 Hello! I am Nick, and I am a software engineer and educator. I primarily teach courses in scientific computing and data visualization.
 
-Recently I have been focused largely on writing and improving tools I use for my classes. I also ~~don't~~ maintain my blog over at [NESWare.io](https://www.nesware.io/), so check it out if you want. Or don't, I have maybe half a dozen unfinished articles because I am undecisive.
+Recently I have been focused largely on writing and improving tools I use for my classes. I also ~~don't~~ maintain my blog over at [NESWare.io](https://www.nesware.io/), so check it out if you want. Or don't, I have maybe half a dozen unfinished articles because I am undecisive. I am currently learning a few different topics in multithreading and graphics programming.
 
 I am interested in collaborating on anything dealing with simulations, dataviz, or education tools.
 
